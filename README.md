@@ -1,4 +1,4 @@
-# desmos2wolfram_piecewise
+# Desmos2Wolfram: Piecewise
 Converts piecewise desmos functions to a format acceptable by WolframAlpha
 
 # Usage
